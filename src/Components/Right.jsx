@@ -11,7 +11,7 @@ function Right() {
         </div>
         <div className="name">
           <p>
-            Hello there! 👋 My name is Oktay and I'm from Berlin, Germany. As a Full-Stack software developer, I specialize in creating visually appealing websites, apps and mobile games. My passion for graphic design isn't just a hobby, it's a key ingredient in every project I work on.
+            Hello there! 👋 My name is Manish and I'm from Bihar , India. As a Full-Stack software developer, I specialize in creating visually appealing websites, apps and mobile games. My passion for graphic design isn't just a hobby, it's a key ingredient in every project I work on.
           </p>
         </div>
         <div className="primary-focus">
